@@ -58,7 +58,7 @@ public final class KrushProps
             var2 = new String(var2.getBytes(), "UTF-8");
             boolean var3 = false;
             int var4;
-            char var12;
+            char var12 = '\000';
 
             for (var4 = 0; var4 < var2.length() && Character.isWhitespace(var12 = var2.charAt(var4)); ++var4)
             {
