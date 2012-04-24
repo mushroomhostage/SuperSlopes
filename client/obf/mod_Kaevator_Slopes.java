@@ -13,22 +13,22 @@ public class mod_Kaevator_Slopes extends BaseMod
     public static void prepareProps()
     {
         props.getInt("Slopes_Opacity", 0);
-        props.getInt("BlockKaevWoodSlopes", 167);
-        props.getInt("BlockKaevCobblestoneSlopes", 168);
-        props.getInt("BlockKaevGlassSlopes", 169);
-        props.getInt("BlockKaevSandstoneSlopes", 170);
-        props.getInt("BlockKaevDirtSlopes", 171);
-        props.getInt("BlockKaevStoneSlopes", 172);
-        props.getInt("BlockKaevSandSlopes", 173);
-        props.getInt("BlockKaevSnowSlopes", 174);
-        props.getInt("BlockKaevGrassSlopes", 175);
-        props.getInt("BlockKaevBricksSlopes", 176);
-        props.getInt("BlockKaevGravelSlopes", 177);
-        props.getInt("BlockKaevGoldSlopes", 178);
-        props.getInt("BlockKaevSteelSlopes", 179);
-        props.getInt("BlockKaevObsidianSlopes", 180);
-        props.getInt("BlockKaevDiamondSlopes", 181);
-        props.getInt("BlockKaevWhiteWoolSlopes", 215);
+        props.getInt("BlockKaevWoodSlopes", 191);
+        props.getInt("BlockKaevCobblestoneSlopes", 192);
+        props.getInt("BlockKaevGlassSlopes", 0);
+        props.getInt("BlockKaevSandstoneSlopes", 0);
+        props.getInt("BlockKaevDirtSlopes", 0);
+        props.getInt("BlockKaevStoneSlopes", 0);
+        props.getInt("BlockKaevSandSlopes", 0);
+        props.getInt("BlockKaevSnowSlopes", 0);
+        props.getInt("BlockKaevGrassSlopes", 0);
+        props.getInt("BlockKaevBricksSlopes", 193);
+        props.getInt("BlockKaevGravelSlopes", 195);
+        props.getInt("BlockKaevGoldSlopes", 0);
+        props.getInt("BlockKaevSteelSlopes", 0);
+        props.getInt("BlockKaevObsidianSlopes", 0);
+        props.getInt("BlockKaevDiamondSlopes", 0);
+        props.getInt("BlockKaevWhiteWoolSlopes", 196);
         props.getInt("BlockKaevBlackWoolSlopes", 0);
         props.getInt("BlockKaevRedWoolSlopes", 0);
         props.getInt("BlockKaevGreenWoolSlopes", 0);
