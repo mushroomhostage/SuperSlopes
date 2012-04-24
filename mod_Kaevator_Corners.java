@@ -1,4 +1,4 @@
-package net.minecraft.src;
+package net.minecraft.server;
 
 import forge.NetworkMod;
 import java.io.File;

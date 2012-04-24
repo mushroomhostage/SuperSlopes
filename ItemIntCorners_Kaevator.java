@@ -1,4 +1,4 @@
-package net.minecraft.src;
+package net.minecraft.server;
 
 public class ItemIntCorners_Kaevator extends ItemBlock
 {
