@@ -14,21 +14,21 @@ public class mod_Kaevator_Slopes extends BaseMod
     {
         props.getInt("Slopes_Opacity", 0);
         props.getInt("BlockKaevWoodSlopes", 191);
-        props.getInt("BlockKaevCobblestoneSlopes", 192);
-        props.getInt("BlockKaevGlassSlopes", 0);
+        props.getInt("BlockKaevCobblestoneSlopes", 0);
+        props.getInt("BlockKaevGlassSlopes", 210);
         props.getInt("BlockKaevSandstoneSlopes", 0);
         props.getInt("BlockKaevDirtSlopes", 0);
         props.getInt("BlockKaevStoneSlopes", 0);
         props.getInt("BlockKaevSandSlopes", 0);
         props.getInt("BlockKaevSnowSlopes", 0);
         props.getInt("BlockKaevGrassSlopes", 0);
-        props.getInt("BlockKaevBricksSlopes", 193);
-        props.getInt("BlockKaevGravelSlopes", 195);
+        props.getInt("BlockKaevBricksSlopes", 0);
+        props.getInt("BlockKaevGravelSlopes", 0);
         props.getInt("BlockKaevGoldSlopes", 0);
         props.getInt("BlockKaevSteelSlopes", 0);
         props.getInt("BlockKaevObsidianSlopes", 0);
         props.getInt("BlockKaevDiamondSlopes", 0);
-        props.getInt("BlockKaevWhiteWoolSlopes", 196);
+        props.getInt("BlockKaevWhiteWoolSlopes", 0);
         props.getInt("BlockKaevBlackWoolSlopes", 0);
         props.getInt("BlockKaevRedWoolSlopes", 0);
         props.getInt("BlockKaevGreenWoolSlopes", 0);

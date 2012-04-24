@@ -13,9 +13,9 @@ public class mod_Kaevator_Corners extends BaseMod
     public static void prepareProps()
     {
         props.getInt("Slopes_Opacity", 0);
-        props.getInt("BlockKaevWoodCorners", 0);
+        props.getInt("BlockKaevWoodCorners", 192);
         props.getInt("BlockKaevCobblestoneCorners", 0);
-        props.getInt("BlockKaevGlassCorners", 0);
+        props.getInt("BlockKaevGlassCorners", 211);
         props.getInt("BlockKaevSandstoneCorners", 0);
         props.getInt("BlockKaevDirtCorners", 0);
         props.getInt("BlockKaevStoneCorners", 0);
